@@ -1,0 +1,6 @@
+[submodule "vpc_library"]
+	path = matlab/vpc_library
+	url = https://github.com/marciska/vpc-library.git
+[submodule "docker/docker-mac-network"]
+	path = docker/docker-mac-network
+	url = https://github.com/wojas/docker-mac-network.git
